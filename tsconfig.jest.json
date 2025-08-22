@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": true // Jest precisa de source maps para reportar os erros corretamente
+  },
+  "exclude": [] // Remove a exclusão de arquivos de teste
+}
