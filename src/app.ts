@@ -9,5 +9,3 @@ const app = Express();
 app.use(router);
 
 export { app };
-
-const erroProposital: string = 12345;
