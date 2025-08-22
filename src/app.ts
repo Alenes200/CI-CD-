@@ -10,4 +10,4 @@ app.use(router);
 
 export { app };
 
-const erroProposital: string = 123;
+const erroProposital: string = 12345;
